@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">adoptapaw</string>
+    <string name="pets_name">Nama Hewan</string>
+    <string name="description">Deskripsi</string>
+    <string name="gambar_hewan">Gambar Hewan</string>
+    <string name="namapet_detail">Nama Pet</string>
+    <string name="petdetail_detail">Detail Pet</string>
+    <string name="addresspet_detail">Address Pet</string>
+    <string name="detail">DETAIL</string>
+    <string name="alamat">ALAMAT</string>
+    <string name="contact_owner">Contact Owner</string>
+    <string name="adoptapaw">adoptapaw</string>
+
+    <string-array name="data_name">
+        <item>Anjing Poodle</item>
+        <item>Bengal Cat</item>
+        <item>Chihuahua</item>
+        <item>Guinea pig</item>
+        <item>Kelinci Anggora</item>
+        <item>Kelinci Netherland</item>
+        <item>Kelinci Netherland Gray</item>
+        <item>Kucing Calico</item>
+        <item>Kucing Persia</item>
+        <item>Kucing Ragdoll</item>
+        <item>Peruvian Guinea Pig</item>
+        <item>Phadopus Pearl Dwarf Hamster</item>
+        <item>Winter White Dwarf Hamster</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Anjing Poodle, juga dikenal sebagai Poodle, merupakan salah satu ras anjing yang sangat terkenal karena bulunya yang tebal, keriting, dan memiliki kepintaran yang luar biasa. Mereka dikenal sebagai anjing yang energik, penuh kasih, dan cerdas, yang membuat mereka menjadi pilihan favorit sebagai hewan peliharaan di berbagai belahan dunia. Keanggunan mereka, baik secara fisik maupun mental, telah menjadikan mereka tidak hanya sebagai teman setia, tetapi juga sebagai anggota keluarga yang dicintai oleh banyak orang.</item>
+        <item>Bengal Cat adalah salah satu ras kucing yang menarik dan eksotis, yang dikenal karena memiliki motif bulu yang mirip dengan harimau atau leopard. Dengan pola bulu yang unik dan eksotisnya, Bengal Cat sering menjadi sorotan di kalangan pecinta kucing, menambahkan sentuhan keindahan alami dan keanggunan yang mempesona di setiap rumah di mana mereka berada.</item>
+        <item>Chihuahua adalah salah satu ras anjing yang paling kecil di dunia, dinamai sesuai dengan negara bagian Chihuahua di Meksiko tempat asal mereka. Meskipun ukurannya kecil, Chihuahua memiliki kepribadian yang besar, penuh semangat, dan sangat setia terhadap pemiliknya. Meskipun mungil, mereka memiliki keberanian yang luar biasa dan seringkali menjadi anjing penjaga yang baik. Karena sifatnya yang ramah dan mudah dijinakkan, Chihuahua sering dipilih sebagai hewan peliharaan yang ideal bagi mereka yang mencari teman yang setia dan penyayang.</item>
+        <item>Guinea pig, atau yang sering disebut sebagai "marmut" dalam bahasa Indonesia, adalah salah satu hewan pengerat kecil yang sangat populer sebagai hewan peliharaan. Meskipun ukurannya kecil, mereka memiliki kepribadian yang ramah dan suka berinteraksi dengan manusia, menjadikannya pilihan yang ideal untuk keluarga yang mencari hewan peliharaan yang menyenangkan dan mudah dirawat. Dengan karakteristik uniknya, Guinea pig telah mencuri hati banyak orang di seluruh dunia sebagai teman setia dan lucu.</item>
+        <item>Kelinci Anggora adalah salah satu varietas kelinci yang sangat terkenal karena bulunya yang panjang, lembut, dan tebal. Kecantikan dan kemewahan dari bulu Anggora telah menjadikannya pilihan yang populer di kalangan pecinta kelinci. Dengan kelembutan bulunya yang menyentuh hati, Kelinci Anggora sering kali menjadi favorit sebagai hewan peliharaan di berbagai belahan dunia, menambah kehangatan dan keindahan di rumah mereka.</item>
+        <item>Kelinci Netherland adalah salah satu ras kelinci yang terkenal karena ukuran kecil mereka dan penampilan yang menggemaskan. Mereka adalah varietas miniatur dari kelinci yang memiliki tubuh kecil, telinga pendek, dan kepala yang bulat. </item>
+        <item>Kelinci Netherland Gray adalah salah satu ras kelinci yang terkenal karena ukuran kecil mereka, penampilan yang menggemaskan dan berwarna gray. Mereka adalah varietas miniatur dari kelinci yang memiliki tubuh kecil, telinga pendek, dan kepala yang bulat. </item>
+        <item>Kucing Calico adalah salah satu varietas kucing yang terkenal dengan pola warna bulunya yang unik dan menarik. Ciri paling khas dari kucing Calico adalah kombinasi tiga warna utama yang terdapat pada bulunya, yaitu putih, hitam, dan oranye, meskipun ada juga varian dengan tambahan warna lain seperti abu-abu atau coklat.</item>
+        <item>Kucing Persia adalah salah satu ras kucing yang paling terkenal dan populer di dunia, terkenal dengan bulu panjang, wajah bulat, dan kepribadian yang tenang. Ciri khas yang paling menonjol dari Kucing Persia adalah bulu mereka yang lebat, panjang, dan berlapis-lapis, yang memberikan penampilan yang mewah dan anggun</item>
+        <item>Kucing Ragdoll adalah salah satu ras kucing yang terkenal dengan sifatnya yang lembut, tenang, dan ramah. Nama "Ragdoll" diberikan kepada ras ini karena kecenderungan mereka untuk melonggar dan relaksasi sepenuhnya ketika diangkat, mirip dengan boneka kain yang lemas.</item>
+        <item>Peruvian Guinea Pig adalah ras yang unik dan menarik yang dikenal dengan bulu panjangnya yang mengalir dan terus tumbuh sepanjang hidupnya. Berbeda dengan ras lainnya yang memiliki bulu panjang, bulu Peruvian tumbuh dari kepala dan mengalir ke belakang, sering kali mencapai panjang lebih dari 20 inci. </item>
+        <item>Phodopus Pearl Dwarf Hamster adalah salah satu jenis hamster kerdil yang berasal dari Asia Tengah dan Timur. Mereka memiliki ciri khas bulu yang halus dan berwarna abu-abu atau putih, dengan garis-garis berwarna gelap atau hitam yang melintang di punggung mereka, menciptakan pola "bermutiara".</item>
+        <item>Winter White Dwarf Hamster, juga dikenal sebagai Winter White Hamster atau Dwarf Campbells Russian Hamster, adalah salah satu jenis hamster kerdil yang berasal dari daerah Asia Tengah dan Timur.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/anjing_poodle</item>
+        <item>@drawable/bengal_cat</item>
+        <item>@drawable/chihuahua</item>
+        <item>@drawable/guinea_pig</item>
+        <item>@drawable/kelinci_anggora_abu</item>
+        <item>@drawable/kelinci_netherland</item>
+        <item>@drawable/kelinci_netherland_abu</item>
+        <item>@drawable/kucing_calico</item>
+        <item>@drawable/kucing_persia</item>
+        <item>@drawable/kucing_ragdoll</item>
+        <item>@drawable/peruvian_guinea_pig</item>
+        <item>@drawable/phodopus_pearl_dwarf_hamster</item>
+        <item>@drawable/winter_white_dwarf_hamster</item>
+    </integer-array>
+
+    <string-array name="data_address">
+        <item>"Padang"</item>
+        <item>"Jakarta"</item>
+        <item>"Medan"</item>
+        <item>"Semarang"</item>
+        <item>"Makasar"</item>
+        <item>"Palembang"</item>
+        <item>"Bandung"</item>
+        <item>"Surabaya"</item>
+        <item>"Payakumbuh"</item>
+        <item>"Batam"</item>
+        <item>"Padang"</item>
+        <item>"Padang Pariaman"</item>
+        <item>"Pesisir Selatang"</item>
+    </string-array>
+
+    <string-array name="data_cp">
+        <item>"081234556781"</item>
+        <item>"0815345565581"</item>
+        <item>"081224553780"</item>
+        <item>"081234500781"</item>
+        <item>"081034550780"</item>
+        <item>"081214516181"</item>
+        <item>"081234252721"</item>
+        <item>"081233536383"</item>
+        <item>"081434544781"</item>
+        <item>"085235556585"</item>
+        <item>"081264656661"</item>
+        <item>"087274576787"</item>
+        <item>"089234959791"</item>
+    </string-array>
+
+</resources>

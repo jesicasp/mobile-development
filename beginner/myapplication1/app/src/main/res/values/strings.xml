@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="inputTglLahir">Masukkan Tanggal Lahir Anda</string>
+    <string name="perhitungan_volume_bar">Perhitungan Volume Bar</string>
+    <string name="edt_panjang">Edit Panjang</string>
+    <string name="edt_lebar">Edit Lebar</string>
+    <string name="edt_tinggi">Edit Tinggi</string>
+    <string name="btn_hitung">Hitung</string>
+</resources>
