@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenggambarObject</string>
+    <string name="image_view">image view</string>
+    <string name="go_to_canvas">Go to canvas</string>
+</resources>

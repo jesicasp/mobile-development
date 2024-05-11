@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887569378461",
+    "project_id": "fir-ml-dicoding-31de2",
+    "storage_bucket": "fir-ml-dicoding-31de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887569378461:android:da27fb2d376735f95db874",
+        "android_client_info": {
+          "package_name": "com.dicoding.latihantensorflowliteprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUakWxBV0V2B7dWvIEzA8kA9H5J2njhQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
